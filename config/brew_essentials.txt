@@ -1,0 +1,6 @@
+# Essentielle Pakete, die immer installiert werden
+git
+zsh
+zsh-completions
+fzf
+gum

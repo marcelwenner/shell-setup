@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Backup files
+*.bak
+*.backup
+*.orig
+*.tmp
+*.swp
+*~
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Shell script specific
+.env.local
